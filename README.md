@@ -1,1 +1,2 @@
+[![Board Status](https://codedev.ms/test1/f00f56b1-7970-455d-b740-91a1aea80ff8/03aa7a84-8184-485b-96d5-98c862e2008b/_apis/work/boardbadge/533cfbf6-7b2c-422c-a713-26070ed20351)](https://codedev.ms/test1/f00f56b1-7970-455d-b740-91a1aea80ff8/_boards/board/t/03aa7a84-8184-485b-96d5-98c862e2008b/Microsoft.RequirementCategory)
 # A1
